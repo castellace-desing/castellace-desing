@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @castellace-desing
 - 👀 I’m interested in creat blog 
 - 🌱 I’m currently learning progamation 
-- 💞️ I’m looking to collaborate on project
+- 🤝 I’m looking to collaborate on project
 - 📫 How to reach me instagram 
 
 - 😄 Pronouns: shelby 
