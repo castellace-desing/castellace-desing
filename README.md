@@ -1,7 +1,7 @@
 # Olá! Sou o Gabriel saiba mais sobre mim:
 ---
 ## Interesses 
-- Criar a desenvolver blogs e softwers 
+- Criar e desenvolver softwers 
 - Aprender mais sobre progamção afinal conhecimento nunca é de mais para mim
 - Participar de projetos colaborativos.
 ---
