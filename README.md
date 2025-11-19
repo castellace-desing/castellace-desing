@@ -1,7 +1,7 @@
 # Olá! Sou o Gabriel saiba mais sobre mim:
 ---
 ## Interesses 
-- Criar a desenvolver blogs
+- Criar a desenvolver blogs e softwers 
 - Aprender mais sobre progamção afinal conhecimento nunca é de mais para mim
 - Participar de projetos colaborativos.
 ---
@@ -12,7 +12,7 @@
 ---
  ## Busco colabolar em
   - Projetos simples para iniciantes
-  - ideias criativas envolvendo desing e código
+  - ideias criativas envolvendo desenvolvimento de Software 
 ---
  ## Como me encontrar
   - Instagram @gabriel_willian1
